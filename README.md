@@ -1,0 +1,4 @@
+Hamsteria
+=========
+
+Practicing my Java.
